@@ -1,3 +1,3 @@
 ### 8th April 2017
-* Added Discord Webhook for Server Progress (Callum)
+* Added webhook for development tracking on Discord (Callum)
 * Removed archaic anti-cheat system (Callum)
