@@ -1,4 +1,5 @@
 ### 8th April 2017
+* Join messages now show the country of the player (Callum)
 * Removed obsolete guest renaming feature (Callum)
 * Added webhook for development tracking on Discord (Callum)
 * Removed archaic anti-cheat system (Callum)
