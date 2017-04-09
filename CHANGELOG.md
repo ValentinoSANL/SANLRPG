@@ -1,4 +1,5 @@
 ### 9th April 2017
+* Fixed message box colliding with minimap radar (Om)
 * Removed obsolete version checker (Callum)
 * Added 'SANL' chat for staff (Callum)
 * Removed bad word filtering from chat (Callum)
