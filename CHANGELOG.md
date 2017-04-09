@@ -1,4 +1,5 @@
 ### 9th April 2017
+* Made that messagebox messages outputs in client consoles (Om)
 * Fixed message box colliding with minimap radar (Om)
 * Removed obsolete version checker (Callum)
 * Added 'SANL' chat for staff (Callum)
