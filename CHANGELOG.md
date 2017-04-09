@@ -1,4 +1,5 @@
 ### 9th April 2017
+* Removed bad word filtering from chat (Callum)
 * Removed obsolete IRC resource (Callum)
 
 ### 8th April 2017
