@@ -1,4 +1,5 @@
 ### 9th April 2017
+* Added 'SANL' chat for staff (Callum)
 * Removed bad word filtering from chat (Callum)
 * Removed obsolete IRC resource (Callum)
 
