@@ -1,3 +1,7 @@
+### 10th April 2017
+* Fixed cruise control still being active when the player died. (Jack)
+* Fixed speedometer and cruise control still being visible when the player died in their vehicle. (Jack)
+
 ### 9th April 2017
 * Made that messagebox messages outputs in client consoles (Om)
 * Fixed message box colliding with minimap radar (Om)
