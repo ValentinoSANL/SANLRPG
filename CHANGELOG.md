@@ -1,4 +1,5 @@
 ### 10th April 2017
+* Removed various constraints on player nicks (Callum)
 * Increased FPS limit to 60 (Callum)
 * Added a 'kill' command (Jack)
 * Fixed cruise control still being active when the player died (Jack)
