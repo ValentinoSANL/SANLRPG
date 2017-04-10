@@ -1,7 +1,7 @@
 ### 10th April 2017
-* Added the loved kill command... Should probably add checks to it as well for those crafty ones who kill while arrested. (Jack)
-* Fixed cruise control still being active when the player died. (Jack)
-* Fixed speedometer and cruise control still being visible when the player died in their vehicle. (Jack)
+* Added a 'kill' command (Jack)
+* Fixed cruise control still being active when the player died (Jack)
+* Fixed speedometer and cruise control still being visible when the player died in their vehicle (Jack)
 
 ### 9th April 2017
 * Made that messagebox messages outputs in client consoles (Om)
