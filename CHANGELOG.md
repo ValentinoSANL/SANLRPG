@@ -1,4 +1,5 @@
 ### 10th April 2017
+* Fixed medics able to heal players in any vehicle (Om)
 * Player nicks now indicate when players are typing (Callum)
 * Removed various constraints on player nicks (Callum)
 * Increased FPS limit to 60 (Callum)
