@@ -1,4 +1,5 @@
 ### 10th April 2017
+* Increased FPS limit to 60 (Callum)
 * Added a 'kill' command (Jack)
 * Fixed cruise control still being active when the player died (Jack)
 * Fixed speedometer and cruise control still being visible when the player died in their vehicle (Jack)
