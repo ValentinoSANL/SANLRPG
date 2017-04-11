@@ -24,24 +24,24 @@ L10N = {
 
 Arabic = {
 	["USERNAME"] = {
-		en_US = "اسم المستخدم"
+		ar_AR = "اسم المستخدم"
 	},
 	["PASSWORD"] = {
-		en_US = "كلمة السر"
+		ar_AR = "كلمة السر"
 	},
 	["CONFIRM"] = {
-		en_US = "تأكيد"
+		ar_AR = "تأكيد"
 	},
 	["REMEMBER_PASSWORD"] = {
-		en_US = "تذكر كلمة المرور"
+		ar_AR = "تذكر كلمة المرور"
 	},
 	["LOGIN"] = {
-		en_US = "تسجيل الدخول"
+		ar_AR = "تسجيل الدخول"
 	},
 	["REGISTER"] = {
-		en_US = "انشاء حساب"
+		ar_AR = "انشاء حساب"
 	},
 	["CANCEL"] = {
-		en_US = "الغاء"
+		ar_AR = "الغاء"
 	}
 }
