@@ -1,4 +1,5 @@
 ### 11th April 2017
+* Fixed the word wrapping of job descriptions and prevented the job window being resized (Callum)
 * Changed the blip ID used for job markers (Callum)
 
 ### 10th April 2017
