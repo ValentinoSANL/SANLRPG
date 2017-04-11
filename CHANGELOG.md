@@ -1,3 +1,6 @@
+### 11th April 2017
+* Changed the blip ID used for job markers (Callum)
+
 ### 10th April 2017
 * Added Discord echo for all types of public chat and joinquit (Callum)
 * Made the localchat command case-insensitive (Callum)
