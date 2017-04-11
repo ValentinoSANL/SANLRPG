@@ -1,30 +1,30 @@
 L10N = {
 	["USERNAME"] = {
-		en_US = "Username:"
-		fr_FR = "Nom d'utilisateur:"
+		en_US = "Username:",
+		fr = "Nom d'utilisateur:"
 	},
 	["PASSWORD"] = {
-		en_US = "Password:"
-		fr_FR = "Mot de passe:"
+		en_US = "Password:",
+		fr = "Mot de passe:"
 	},
 	["CONFIRM"] = {
-		en_US = "Confirm:"
-		fr_FR = "Confirmer:"
+		en_US = "Confirm:",
+		fr = "Confirmer:"
 	},
 	["REMEMBER_PASSWORD"] = {
-		en_US = "Remember my password"
-		fr_FR = "Mémoriser mon mot de passe"
+		en_US = "Remember my password",
+		fr = "Mémoriser mon mot de passe"
 	},
 	["LOGIN"] = {
-		en_US = "Login"
-		fr_FR = "Connexion"
+		en_US = "Login",
+		fr = "Connexion"
 	},
 	["REGISTER"] = {
-		en_US = "Register"
-		fr_FR = "Créer un compte"
+		en_US = "Register",
+		fr = "Créer un compte"
 	},
 	["CANCEL"] = {
-		en_US = "Cancel"
-		fr_FR = "Annuler"
+		en_US = "Cancel",
+		fr = "Annuler"
 	}
 }
