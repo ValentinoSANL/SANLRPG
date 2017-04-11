@@ -1,47 +1,37 @@
 L10N = {
 	["USERNAME"] = {
-		en_US = "Username:"
+		en_US = "Username:",
+		fr = "Nom d'utilisateur:",
+		ar = "اسم المستخدم"
 	},
 	["PASSWORD"] = {
-		en_US = "Password:"
+		en_US = "Password:",
+		fr = "Mot de passe:",
+		ar = "كلمة السر"
 	},
 	["CONFIRM"] = {
-		en_US = "Confirm:"
+		en_US = "Confirm:",
+		fr = "Confirmer:",
+		ar = "تأكيد"
 	},
 	["REMEMBER_PASSWORD"] = {
-		en_US = "Remember my password"
+		en_US = "Remember my password",
+		fr = "Mémoriser mon mot de passe",
+		ar = "تذكر كلمة المرور"
 	},
 	["LOGIN"] = {
-		en_US = "Login"
+		en_US = "Login",
+		fr = "Connexion",
+		ar = "تسجيل الدخول"
 	},
 	["REGISTER"] = {
-		en_US = "Register"
+		en_US = "Register",
+		fr = "Créer un compte",
+		ar = "انشاء حساب"
 	},
 	["CANCEL"] = {
-		en_US = "Cancel"
-	}
-}
-
-Arabic = {
-	["USERNAME"] = {
-		ar_AR = "اسم المستخدم"
-	},
-	["PASSWORD"] = {
-		ar_AR = "كلمة السر"
-	},
-	["CONFIRM"] = {
-		ar_AR = "تأكيد"
-	},
-	["REMEMBER_PASSWORD"] = {
-		ar_AR = "تذكر كلمة المرور"
-	},
-	["LOGIN"] = {
-		ar_AR = "تسجيل الدخول"
-	},
-	["REGISTER"] = {
-		ar_AR = "انشاء حساب"
-	},
-	["CANCEL"] = {
-		ar_AR = "الغاء"
+		en_US = "Cancel",
+		fr = "Annuler",
+		ar = "الغاء"
 	}
 }
