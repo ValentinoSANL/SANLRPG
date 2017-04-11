@@ -1,4 +1,6 @@
 ### 10th April 2017
+* Added Discord echo for all types of public chat and joinquit (Callum)
+* Made the localchat command case-insensitive (Callum)
 * Mapped markers inside drug factories (Callum)
 * Fixed medics able to heal players in any vehicle (Om)
 * Player nicks now indicate when players are typing (Callum)
