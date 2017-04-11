@@ -1,4 +1,5 @@
 ### 11th April 2017
+* On-duty staff can no longer be damaged (Callum)
 * Added a ten second delay to the 'kill' command (Callum)
 * Mapped National Guard and Mafia jobs (Callum)
 * Fixed the word wrapping of job descriptions and prevented the job window being resized (Callum)
