@@ -1,4 +1,5 @@
 ### 13th April 2017
+* Fixed login password bug and improved security (Callum)
 * Setup basic web scoreboard (Callum)
 * Changed 'staffduty' command to 'staff' (Callum)
 
