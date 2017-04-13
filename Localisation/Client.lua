@@ -1,39 +1,38 @@
 L10N = {
 	["USERNAME"] = {
+		ar = "اسم المستخدم",
 		en_US = "Username:",
-		fr = "Nom d'utilisateur:",
-		ar = "اسم المستخدم"
+		fr = "Nom d'utilisateur:"
 	},
 	["PASSWORD"] = {
+		ar = "كلمة السر",
 		en_US = "Password:",
-		fr = "Mot de passe:",
-		ar = "كلمة السر"
+		fr = "Mot de passe:"
 	},
 	["CONFIRM"] = {
+		ar = "تأكيد",
 		en_US = "Confirm:",
-		fr = "Confirmer:",
-		ar = "تأكيد"
+		fr = "Confirmer:"
 	},
 	["REMEMBER_PASSWORD"] = {
+		ar = "تذكر كلمة المرور",
 		en_US = "Remember my password",
-		fr = "Mémoriser mon mot de passe",
-		ar = "تذكر كلمة المرور"
+		fr = "Mémoriser mon mot de passe"
 	},
 	["LOGIN"] = {
+		ar = "تسجيل الدخول",
 		en_US = "Login",
-		fr = "Connexion",
-		ar = "تسجيل الدخول"
+		fr = "Connexion"
 	},
 	["REGISTER"] = {
+		ar = "انشاء حساب",
 		en_US = "Register",
-		fr = "Créer un compte",
-		ar = "انشاء حساب"
+		fr = "Créer un compte"
 	},
 	["CANCEL"] = {
+		ar = "الغاء",
 		en_US = "Cancel",
-		fr = "Annuler",
-		ar = "الغاء"
-		fr = "Nom d'utilisateur:"
+		fr = "Annuler"
 	},
 	["PASSWORD"] = {
 		en_US = "Password:",
