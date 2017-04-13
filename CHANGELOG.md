@@ -1,9 +1,11 @@
+### 13th April 2017
+* Changed 'staffduty' command to 'staff' (Callum)
+
 ### 11th April 2017
-* Merged MrgSub's L10N changes to Master.
-* Removed SubAdmin. (Jack)
-* Job system updated with new events, which is required to patch the jobs experiencing resign bugs. (Jack)
-* Waste Collector and Delivery has been patched with the resign issue issue reported on GitHub. (Jack) 
-* Countdown now has restrictions so it only works as an admin (as intended). (Jack)
+* Removed SubAdmin (Jack)
+* Job system updated with new events, which is required to patch the jobs experiencing resign bugs (Jack)
+* Waste Collector and Delivery has been patched with the resign issue issue reported on GitHub (Jack) 
+* Countdown now has restrictions so it only works as an admin (as intended) (Jack)
 * Added vehicle spawners for both National Guard and Mafia (Callum)
 * On-duty staff can no longer be damaged (Callum)
 * Added a ten second delay to the 'kill' command (Callum)
