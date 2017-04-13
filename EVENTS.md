@@ -1,12 +1,12 @@
 ### SANLcore
-|Event Name|Source|Parameters|
-|---|---|---|
-|onPlayerLifeBegin|thePlayer|   |
-|onPlayerChangeTeam|thePlayer|theTeam|
+|Event|Sided|Source|Parameters|
+|---|---|---|---|
+|onPlayerLifeBegin|Server|thePlayer|   |
+|onPlayerChangeTeam|Server|thePlayer|theTeam|
 
 
 ### SANLjobs
-|Event Name|Source|Parameters|
-|---|---|---|
-|onPlayerChangeJob|thePlayer|newJob|
-|onPlayerResign|thePlayer|oldJob|
+|Event|Sided|Source|Parameters|
+|---|---|---|---|
+|onPlayerChangeJob|Server|thePlayer|newJob|
+|onPlayerResign|Server|thePlayer|oldJob|
