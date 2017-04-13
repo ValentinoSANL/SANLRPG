@@ -1,4 +1,5 @@
 ### 13th April 2017
+* Setup basic web scoreboard (Callum)
 * Changed 'staffduty' command to 'staff' (Callum)
 
 ### 11th April 2017
