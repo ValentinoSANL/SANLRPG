@@ -1,4 +1,5 @@
 ### 13th April 2017
+* Added timestamps to Discord outputs (Callum)
 * Resized F9 information panel to show better on very small resolutions (Callum)
 * Fixed carjacker job not working correctly (Callum)
 * Fixed login password bug and improved security (Callum)
