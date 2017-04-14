@@ -1,3 +1,6 @@
+### 14th April 2017
+* Tripled the amount of fuel each vehicle has (Callum)
+
 ### 13th April 2017
 * Fixed cinematics not fitting onto small resolutions (Jack)
 * Added timestamps to Discord outputs (Callum)
