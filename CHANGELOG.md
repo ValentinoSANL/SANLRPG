@@ -1,4 +1,5 @@
 ### 13th April 2017
+* Fixed cinematics not fitting onto small resolutions (Jack)
 * Added timestamps to Discord outputs (Callum)
 * Resized F9 information panel to show better on very small resolutions (Callum)
 * Fixed carjacker job not working correctly (Callum)
