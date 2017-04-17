@@ -1,4 +1,7 @@
 ### 14th April 2017
+* Added a feature to stop the kill feature when the player is arrested. (Jack)
+* Updated kill to take the player's arrested and jail state into consideration. (Jack)
+* Updated SANLpolice's elementdata values to be synced to the client. (Jack)
 * Tripled the amount of fuel each vehicle has (Callum)
 
 ### 13th April 2017
